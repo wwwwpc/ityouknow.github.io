@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: wwwwpc/wwwwpc.github.io
 github_url: https://github.com/wwwwpc
-url: http://www.wwwwpc.com
+url: http://www.wwwwpc.github.io
 enforce_ssl: wwwwpc.com
 
 ## Gem
